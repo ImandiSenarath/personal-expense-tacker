@@ -1,4 +1,4 @@
-# Expense Tracker - ASP.NET Core MVC
+    # Expense Tracker - ASP.NET Core MVC
 
 ## Project Description
 
@@ -58,8 +58,6 @@ Example in this project:
 
 Although MVC is very useful, it also has some limitations:
 
-### 1. Can become complex for beginners
-At first, understanding the flow between Model, View, and Controller can be confusing.
 
 ### 2. Controllers can become too large
 If business logic and database logic are written directly in controllers, they can become difficult to manage.
